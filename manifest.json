@@ -1,7 +1,7 @@
 {
     "name": "Attendance Manager",
     "short_name": "AttendanceManager",
-    "start_url": "http://127.0.0.1:5500/",
+    "start_url": "https://attendanceproject.pages.dev/",
     "display": "standalone",
     "background_color":"#FFE9D2",
     "theme_color": "#f6c226",
